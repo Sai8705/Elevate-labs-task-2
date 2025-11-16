@@ -1,0 +1,15 @@
+Subject: ⚠ Urgent: Your Account Will Be Disabled – Action Required!
+From: Account Support <support@paypa1-security.com>
+To: You <yourmail@example.com>
+
+Dear Customer,
+
+We noticed suspicious activity on your PayPal account and as a security measure, your account has been temporarily limited. 
+You must verify your information within the next 12 hours to avoid permanent suspension.
+
+Verify Your Account Now:
+https://paypal.com.verify-secure-user-auth.com/login
+
+Thank you,
+PayPal Security Team
+support@paypa1-security.com
